@@ -4,7 +4,7 @@
  * @Company: hNdt
  * @Author: xiaWang1024
  * @Date: 2019-12-17 10:32:39
- * @LastEditTime : 2019-12-24 15:55:23
+ * @LastEditTime : 2019-12-24 15:57:01
  -->
 
 #git-flow + jenkins
@@ -16,4 +16,4 @@
 ## v3.0
 
 ## hotfix 0.11.1
-## release 0.12.0
+## release- 0.12.0
